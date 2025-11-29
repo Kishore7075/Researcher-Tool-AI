@@ -1,0 +1,5 @@
+{
+  "name": "ResearchMate AI",
+  "description": "An advanced AI-powered writing assistant for researchers. Features grammar checking, style enhancement, source verification (grounding), and summarization.",
+  "requestFramePermissions": []
+}
